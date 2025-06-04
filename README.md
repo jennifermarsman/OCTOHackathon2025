@@ -7,7 +7,7 @@ This project assumes that you are using our endpoint.
 Use the following commands to set up your environment with `uv`. This creates and activates a virtual environment and installs the required packages. For subsequent runs after the initial install, you will only need to activate the environment and then run the python script.
 
 ### First run
-Make sure you have uv installed, see the Prerequisites below.
+Make sure you have uv installed; see the [Prerequisites](#prerequisites) below.
 
 Linux/macOS:
 ```bash
