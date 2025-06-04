@@ -16,7 +16,7 @@ response = client.responses.create(
     tools=[
         {
             "type": "mcp",
-            "server_label": "github",
+            "server_label": "microsoftdocs",
             "server_url": "https://learn.microsoft.com/api/mcp",
             "require_approval": "never"
         },
